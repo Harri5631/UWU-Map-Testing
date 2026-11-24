@@ -1,0 +1,931 @@
+{
+  "name": "Equestria-At-War_Map",
+  "mapInfoState": {
+    "width": 1416,
+    "height": 960,
+    "originalWidth": 1414,
+    "originalHeight": 959,
+    "cropData": {
+      "isCropped": false,
+      "cropX": 0,
+      "cropY": 0,
+      "cropWidth": 0,
+      "cropHeight": 0,
+      "originalWidth": 0,
+      "originalHeight": 0
+    },
+    "colorMappings": [
+      {
+        "sourceColor": {
+          "r": 190,
+          "g": 220,
+          "b": 140
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 10
+      },
+      {
+        "sourceColor": {
+          "r": 128,
+          "g": 129,
+          "b": 129
+        },
+        "targetTerrainName": "Plains",
+        "tolerancePercent": 1
+      },
+      {
+        "sourceColor": {
+          "r": 122,
+          "g": 221,
+          "b": 255
+        },
+        "targetTerrainName": "Sea",
+        "tolerancePercent": 1
+      }
+    ]
+  },
+  "nations": [
+    {
+      "coordinates": [287, 268],
+      "name": "Equestria",
+      "strength": 2,
+      "flag": "custom:450px-Equestria"
+    },
+    {
+      "coordinates": [153, 112],
+      "name": "Changeling Lands",
+      "strength": 2,
+      "flag": "custom:450px-Changeling_Lands"
+    },
+    {
+      "coordinates": [416, 177],
+      "name": "Staliongrad",
+      "strength": 1,
+      "flag": "custom:450px-Stalliongrad"
+    },
+    {
+      "coordinates": [825, 42],
+      "name": "Dread League",
+      "strength": 3,
+      "flag": "custom:450px-Dread_League"
+    },
+    {
+      "coordinates": [730, 52],
+      "name": "Arcturian Order",
+      "strength": 2,
+      "flag": "custom:450px-Arcturian_Order"
+    },
+    {
+      "coordinates": [61, 177],
+      "name": "Kingdom of Olenea",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Olenia"
+    },
+    {
+      "coordinates": [294, 179],
+      "name": "Crystal Empire",
+      "strength": 2,
+      "flag": "custom:450px-Crystal_Empire"
+    },
+    {
+      "coordinates": [407, 149],
+      "name": "Our Town",
+      "strength": 1,
+      "flag": "custom:450px-Our_Town"
+    },
+    {
+      "coordinates": [409, 33],
+      "name": "Kingdom of Pingland",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Pingland"
+    },
+    {
+      "coordinates": [906, 75],
+      "name": "Greenclyf",
+      "strength": 1,
+      "flag": "custom:450px-Greneclyf"
+    },
+    {
+      "coordinates": [367, 111],
+      "name": "Jaki-Clan",
+      "strength": 1,
+      "flag": "custom:Jaki-Clan"
+    },
+    {
+      "coordinates": [537, 206],
+      "name": "Haukland",
+      "strength": 1,
+      "flag": "custom:450px-Haukland"
+    },
+    {
+      "coordinates": [290, 114],
+      "name": "Kingdom of Yakyakistan",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Yakyakistan"
+    },
+    {
+      "coordinates": [297, 66],
+      "name": "Polar Bear Communities",
+      "strength": 1,
+      "flag": "custom:450px-Polar_Bear_Communities"
+    },
+    {
+      "coordinates": [373, 73],
+      "name": "Griffon Frontier",
+      "strength": 1,
+      "flag": "custom:450px-Griffon_Frontier"
+    },
+    {
+      "coordinates": [440, 380],
+      "name": "United Dragon Lands",
+      "strength": 1,
+      "flag": "custom:450px-United_Dragon_Lands"
+    },
+    {
+      "coordinates": [221, 345],
+      "name": "Buffalo Cheifdom",
+      "strength": 1,
+      "flag": "custom:450px-Buffalo_Chiefdom"
+    },
+    {
+      "coordinates": [338, 336],
+      "name": "Dragon Badlands",
+      "strength": 1,
+      "flag": "custom:450px-United_Dragon_Lands"
+    },
+    {
+      "coordinates": [345, 467],
+      "name": "Puerto Caballo",
+      "strength": 1,
+      "flag": "custom:450px-Puerto_Caballo"
+    },
+    {
+      "coordinates": [461, 493],
+      "name": "Les Meridiennes",
+      "strength": 1,
+      "flag": "custom:450px-Les_Meridiennes"
+    },
+    {
+      "coordinates": [700, 491],
+      "name": "Hippogriffia",
+      "strength": 2,
+      "flag": "custom:450px-Hippogriffia"
+    },
+    {
+      "coordinates": [749, 564],
+      "name": "Republic of Tobuck",
+      "strength": 1,
+      "flag": "custom:450px-Republic_of_Tobuck"
+    },
+    {
+      "coordinates": [710, 549],
+      "name": "Chiropterra",
+      "strength": 1,
+      "flag": "custom:450px-Chiropterra"
+    },
+    {
+      "coordinates": [742, 538],
+      "name": "Kingdom of Warzena",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Warzena"
+    },
+    {
+      "coordinates": [875, 473],
+      "name": "Colthaginian Republic",
+      "strength": 2,
+      "flag": "custom:450px-Colthaginian_Republic"
+    },
+    {
+      "coordinates": [821, 82],
+      "name": "Farbrook",
+      "strength": 1,
+      "flag": "custom:450px-Farbrook"
+    },
+    {
+      "coordinates": [764, 90],
+      "name": "Watertowns",
+      "strength": 1,
+      "flag": "custom:450px-Watertowns"
+    },
+    {
+      "coordinates": [805, 131],
+      "name": "Firtree Villages",
+      "strength": 1,
+      "flag": "custom:450px-Firtree_Villages"
+    },
+    {
+      "coordinates": [657, 48],
+      "name": "Northern Tribes",
+      "strength": 1,
+      "flag": "custom:450px-Northern_Tribes"
+    },
+    {
+      "coordinates": [591, 66],
+      "name": "Socialist Republic of Skynavia",
+      "strength": 1,
+      "flag": "custom:450px-Socialist_Republic_of_Skynavia"
+    },
+    {
+      "coordinates": [576, 115],
+      "name": "Kingdom of Vedina",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Vedina"
+    },
+    {
+      "coordinates": [652, 115],
+      "name": "Griffonian Republic",
+      "strength": 1,
+      "flag": "custom:450px-Griffonian_Republic"
+    },
+    {
+      "coordinates": [718, 103],
+      "name": "Sunstriker Clan",
+      "strength": 1,
+      "flag": "custom:450px-Sunstriker_Clan"
+    },
+    {
+      "coordinates": [720, 143],
+      "name": "Strawberry Duchy",
+      "strength": 1,
+      "flag": "custom:450px-Strawberry_Duchy"
+    },
+    {
+      "coordinates": [763, 158],
+      "name": "County of Bronzehill",
+      "strength": 1,
+      "flag": "custom:450px-County_of_Bronzehill"
+    },
+    {
+      "coordinates": [680, 165],
+      "name": "Grand Duchy of Feathisia",
+      "strength": 1,
+      "flag": "custom:450px-Grand_Duchy_of_Feathisia"
+    },
+    {
+      "coordinates": [713, 194],
+      "name": "Peasant Republic of Greifenmarschen",
+      "strength": 1,
+      "flag": "custom:450px-Greifenmarschen"
+    },
+    {
+      "coordinates": [744, 183],
+      "name": "Imperial Estates of the Griffonian Empire",
+      "strength": 2,
+      "flag": "custom:450px-Griffonian_Empire"
+    },
+    {
+      "coordinates": [740, 206],
+      "name": "Romau Yale Rectorate",
+      "strength": 1,
+      "flag": "custom:450px-Yale_Rectorate"
+    },
+    {
+      "coordinates": [778, 196],
+      "name": "Katerin Principality",
+      "strength": 1,
+      "flag": "custom:450px-Katerin_Principality"
+    },
+    {
+      "coordinates": [769, 222],
+      "name": "Barony of Angriver",
+      "strength": 1,
+      "flag": "custom:450px-Barony_of_Angriver"
+    },
+    {
+      "coordinates": [801, 166],
+      "name": "Ordenstaat Hellquill",
+      "strength": 1,
+      "flag": "custom:450px-Ordensstaat_Hellquill"
+    },
+    {
+      "coordinates": [803, 197],
+      "name": "County of Longsword",
+      "strength": 1,
+      "flag": "custom:450px-County_of_Longsword"
+    },
+    {
+      "coordinates": [895, 122],
+      "name": "Bakaran Republic",
+      "strength": 1,
+      "flag": "custom:450px-Bakaran_Republic"
+    },
+    {
+      "coordinates": [845, 152],
+      "name": "Diamond Mountain",
+      "strength": 1,
+      "flag": "custom:450px-Diamond_Mountain"
+    },
+    {
+      "coordinates": [962, 158],
+      "name": "Nimbusia",
+      "strength": 1,
+      "flag": "custom:450px-Nimbusia"
+    },
+    {
+      "coordinates": [921, 171],
+      "name": "River Republic",
+      "strength": 2,
+      "flag": "custom:450px-River_Republic"
+    },
+    {
+      "coordinates": [846, 174],
+      "name": "Deponya",
+      "strength": 1,
+      "flag": "custom:450px-Deponya"
+    },
+    {
+      "coordinates": [852, 190],
+      "name": "Lake City",
+      "strength": 1,
+      "flag": "custom:450px-Lake_City"
+    },
+    {
+      "coordinates": [975, 208],
+      "name": "Ponaidhean An Taigh Fada",
+      "strength": 1,
+      "flag": "custom:450px-Pònaidhean"
+    },
+    {
+      "coordinates": [916, 209],
+      "name": "Kingdom of Wittenland",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Wittenland"
+    },
+    {
+      "coordinates": [995, 238],
+      "name": "Austurland",
+      "strength": 1,
+      "flag": "custom:450px-Austurland"
+    },
+    {
+      "coordinates": [965, 259],
+      "name": "Kása Free State",
+      "strength": 1,
+      "flag": "custom:450px-Kása_Free_State"
+    },
+    {
+      "coordinates": [946, 237],
+      "name": "Barrad Magocracy",
+      "strength": 1,
+      "flag": "custom:450px-Barrad_Magocracy"
+    },
+    {
+      "coordinates": [917, 275],
+      "name": "Free Towns of Gryphus",
+      "strength": 1,
+      "flag": "custom:450px-Free_Towns_of_Gryphus"
+    },
+    {
+      "coordinates": [885, 234],
+      "name": "Gryphian Host",
+      "strength": 1,
+      "flag": "custom:450px-Gryphian_Host"
+    },
+    {
+      "coordinates": [614, 201],
+      "name": "Township of Fezera",
+      "strength": 1,
+      "flag": "custom:450px-Township_of_Fezera"
+    },
+    {
+      "coordinates": [640, 184],
+      "name": "Skyfall Trade Federation",
+      "strength": 1,
+      "flag": "custom:450px-Skyfall_Trade_Federation"
+    },
+    {
+      "coordinates": [654, 204],
+      "name": "County of Greifwald",
+      "strength": 1,
+      "flag": "custom:450px-County_of_Greifwald"
+    },
+    {
+      "coordinates": [683, 209],
+      "name": "Free Territory of Adelart",
+      "strength": 1,
+      "flag": "custom:450px-Free_Territory_of_Adelart"
+    },
+    {
+      "coordinates": [647, 239],
+      "name": "Kingdom of Aquileia",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Aquileia"
+    },
+    {
+      "coordinates": [684, 233],
+      "name": "Pomovarra",
+      "strength": 1,
+      "flag": "custom:450px-Pomovarra"
+    },
+    {
+      "coordinates": [709, 219],
+      "name": "House of Avian",
+      "strength": 1,
+      "flag": "custom:450px-House_Avian"
+    },
+    {
+      "coordinates": [714, 236],
+      "name": "House of Erie",
+      "strength": 1,
+      "flag": "custom:450px-House_Erie"
+    },
+    {
+      "coordinates": [736, 231],
+      "name": "House of Eyrie",
+      "strength": 1,
+      "flag": "custom:450px-House_Eyrie"
+    },
+    {
+      "coordinates": [767, 246],
+      "name": "Kingdom of Gryffonstone",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Griffonstone"
+    },
+    {
+      "coordinates": [746, 247],
+      "name": "Barony of Rumare",
+      "strength": 1,
+      "flag": "custom:Barony_of_Rumare"
+    },
+    {
+      "coordinates": [827, 219],
+      "name": "Principality of Lushi",
+      "strength": 1,
+      "flag": "custom:450px-Principality_of_Lushi"
+    },
+    {
+      "coordinates": [806, 250],
+      "name": "Blackrock's Bandits",
+      "strength": 1,
+      "flag": "custom:450px-Blackrock's_Bandits"
+    },
+    {
+      "coordinates": [850, 334],
+      "name": "Republic of Asterion",
+      "strength": 1,
+      "flag": "custom:450px-Republic_of_Asterion"
+    },
+    {
+      "coordinates": [828, 301],
+      "name": "County of Cyanolisia",
+      "strength": 1,
+      "flag": "custom:450px-County_of_Cyanolisia (1)"
+    },
+    {
+      "coordinates": [854, 273],
+      "name": "Kingdom of Brodfeld",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Brodfeld"
+    },
+    {
+      "coordinates": [838, 251],
+      "name": "Prywhenian Liberation Army",
+      "strength": 1,
+      "flag": "custom:450px-Prywhenian_Liberation_Army"
+    },
+    {
+      "coordinates": [653, 314],
+      "name": "Commonwealth of New Mareland",
+      "strength": 1,
+      "flag": "custom:450px-Commonwealth_of_New_Mareland"
+    },
+    {
+      "coordinates": [686, 287],
+      "name": "Duchy of Talouse",
+      "strength": 1,
+      "flag": "custom:450px-Duchy_of_Talouse"
+    },
+    {
+      "coordinates": [733, 258],
+      "name": "Barony of Arantiga",
+      "strength": 1,
+      "flag": "custom:450px-Barony_of_Arantiga"
+    },
+    {
+      "coordinates": [712, 272],
+      "name": "County of Francistria",
+      "strength": 1,
+      "flag": "custom:450px-County_of_Francistria"
+    },
+    {
+      "coordinates": [707, 319],
+      "name": "Kingdom of Wingbardy",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Wingbardy"
+    },
+    {
+      "coordinates": [753, 287],
+      "name": "Falcorian Queendom",
+      "strength": 1,
+      "flag": "custom:450px-Falcorian_Queendom (1)"
+    },
+    {
+      "coordinates": [792, 320],
+      "name": "Federated Parishes of Sicameon",
+      "strength": 1,
+      "flag": "custom:450px-Federated_Parishes_of_Sicameon (1)"
+    },
+    {
+      "coordinates": [995, 428],
+      "name": "Macawia",
+      "strength": 1,
+      "flag": "custom:450px-Macawia"
+    },
+    {
+      "coordinates": [1140, 433],
+      "name": "Yarildom of Chital",
+      "strength": 1,
+      "flag": "custom:450px-Yarildom_of_Chital"
+    },
+    {
+      "coordinates": [633, 617],
+      "name": "Kingdom of Abyssinia",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Abyssinia"
+    },
+    {
+      "coordinates": [587, 676],
+      "name": "Asstyria",
+      "strength": 1,
+      "flag": "custom:450px-Asstyria"
+    },
+    {
+      "coordinates": [710, 650],
+      "name": "Maregypt",
+      "strength": 1,
+      "flag": "custom:450px-Maregypt"
+    },
+    {
+      "coordinates": [328, 948],
+      "name": "Ice Dragon Tribe",
+      "strength": 1,
+      "flag": "custom:450px-Ice_Dragon_Tribe"
+    },
+    {
+      "coordinates": [508, 929],
+      "name": "Aestlonia",
+      "strength": 1,
+      "flag": "custom:450px-Aestlonia"
+    },
+    {
+      "coordinates": [496, 889],
+      "name": "Duchy of Maretonia",
+      "strength": 1,
+      "flag": "custom:450px-Duchy_of_Maretonia"
+    },
+    {
+      "coordinates": [613, 900],
+      "name": "Karkadannistan",
+      "strength": 1,
+      "flag": "custom:450px-Karkadannistan"
+    },
+    {
+      "coordinates": [483, 829],
+      "name": "Saddle Arabia",
+      "strength": 1,
+      "flag": "custom:450px-Saddle_Arabia"
+    },
+    {
+      "coordinates": [458, 785],
+      "name": "Arabian Popular Front",
+      "strength": 1,
+      "flag": "custom:450px-Socialist_Republic_of_Arabia"
+    },
+    {
+      "coordinates": [497, 792],
+      "name": "Arabian Republic",
+      "strength": 1,
+      "flag": "custom:Arabian_Republic"
+    },
+    {
+      "coordinates": [499, 733],
+      "name": "National Salvation Movement",
+      "strength": 1,
+      "flag": "custom:450px-Arabian_National_State"
+    },
+    {
+      "coordinates": [557, 725],
+      "name": "League of Four Emirs",
+      "strength": 1,
+      "flag": "custom:450px-League_of_Four_Emirs"
+    },
+    {
+      "coordinates": [606, 797],
+      "name": "Emirate of Osqat",
+      "strength": 1,
+      "flag": "custom:450px-Emirate_of_Osqat"
+    },
+    {
+      "coordinates": [633, 831],
+      "name": "Magocracy of Maretania",
+      "strength": 1,
+      "flag": "custom:450px-Magocracy_of_Maretania"
+    },
+    {
+      "coordinates": [690, 808],
+      "name": "Imperial Mazwi",
+      "strength": 1,
+      "flag": "custom:450px-Imperial_Mazwi"
+    },
+    {
+      "coordinates": [682, 830],
+      "name": "Mozzi",
+      "strength": 1,
+      "flag": "custom:450px-Mozzi"
+    },
+    {
+      "coordinates": [683, 778],
+      "name": "Re'em",
+      "strength": 1,
+      "flag": "custom:450px-Re'em"
+    },
+    {
+      "coordinates": [645, 779],
+      "name": "Haymirite Kingdom",
+      "strength": 1,
+      "flag": "custom:450px-Haymirite_Malikate"
+    },
+    {
+      "coordinates": [667, 733],
+      "name": "Emirate of Yemane",
+      "strength": 1,
+      "flag": "custom:450px-Emirate_of_Yemane"
+    },
+    {
+      "coordinates": [635, 700],
+      "name": "Anseruk",
+      "strength": 1,
+      "flag": "custom:450px-Anseruk"
+    },
+    {
+      "coordinates": [723, 749],
+      "name": "Timbucktu",
+      "strength": 1,
+      "flag": "custom:450px-Timbucktu"
+    },
+    {
+      "coordinates": [719, 786],
+      "name": "Zar-Hay",
+      "strength": 1,
+      "flag": "custom:450px-Zar-Hay"
+    },
+    {
+      "coordinates": [743, 769],
+      "name": "Macigena",
+      "strength": 1,
+      "flag": "custom:450px-Macigena"
+    },
+    {
+      "coordinates": [781, 911],
+      "name": "Stormland Regency",
+      "strength": 1,
+      "flag": "custom:450px-Stormland_Regency"
+    },
+    {
+      "coordinates": [753, 792],
+      "name": "Aoranda",
+      "strength": 1,
+      "flag": "custom:450px-Aoranda"
+    },
+    {
+      "coordinates": [762, 812],
+      "name": "Ugabi",
+      "strength": 1,
+      "flag": "custom:450px-Ugabi"
+    },
+    {
+      "coordinates": [784, 794],
+      "name": "Gelon-Zornu",
+      "strength": 1,
+      "flag": "custom:450px-Gelon-Zornu"
+    },
+    {
+      "coordinates": [746, 839],
+      "name": "Icepaw Provisional Directorate",
+      "strength": 1,
+      "flag": "custom:450px-Icepaw_Provisional_Directorate"
+    },
+    {
+      "coordinates": [804, 821],
+      "name": "Hayzeb Federation",
+      "strength": 1,
+      "flag": "custom:450px-Hayzeb_Federation"
+    },
+    {
+      "coordinates": [815, 855],
+      "name": "Gyzwindid Realm",
+      "strength": 1,
+      "flag": "custom:450px-Gyzwindid_Realm"
+    },
+    {
+      "coordinates": [920, 869],
+      "name": "Thundarian Magocracy",
+      "strength": 1,
+      "flag": "custom:450px-Thundarian_Magocracy"
+    },
+    {
+      "coordinates": [892, 791],
+      "name": "Qaylidi Dervishes",
+      "strength": 1,
+      "flag": "custom:450px-Qaylidi_Dervishes"
+    },
+    {
+      "coordinates": [878, 716],
+      "name": "Central Zebrican Empire",
+      "strength": 1,
+      "flag": "custom:450px-Central_Zebrican_Empire"
+    },
+    {
+      "coordinates": [741, 711],
+      "name": "Alwani",
+      "strength": 1,
+      "flag": "custom:450px-Alwani"
+    },
+    {
+      "coordinates": [837, 641],
+      "name": "Azir",
+      "strength": 1,
+      "flag": "custom:Azir"
+    },
+    {
+      "coordinates": [821, 556],
+      "name": "Zarantia",
+      "strength": 1,
+      "flag": "custom:450px-Zarantia"
+    },
+    {
+      "coordinates": [949, 555],
+      "name": "Quaggati",
+      "strength": 1,
+      "flag": "custom:450px-Quaggatai"
+    },
+    {
+      "coordinates": [1095, 620],
+      "name": "Ibhayiz",
+      "strength": 1,
+      "flag": "custom:450px-Ibhayiz"
+    },
+    {
+      "coordinates": [1092, 659],
+      "name": "Roaman Kaiserate",
+      "strength": 1,
+      "flag": "custom:450px-Roaman_Kaiserate"
+    },
+    {
+      "coordinates": [1093, 690],
+      "name": "Imba-Zaru Principality",
+      "strength": 1,
+      "flag": "custom:450px-Imba-Zaru_Principality"
+    },
+    {
+      "coordinates": [974, 659],
+      "name": "Free Camel Tribes",
+      "strength": 1,
+      "flag": "custom:450px-Free_Camel_Tribes"
+    },
+    {
+      "coordinates": [1022, 594],
+      "name": "Boltarian Kingdom",
+      "strength": 1,
+      "flag": "custom:450px-Boltrian_Kingdom"
+    },
+    {
+      "coordinates": [1025, 537],
+      "name": "Llambet",
+      "strength": 1,
+      "flag": "custom:450px-Llambet"
+    },
+    {
+      "coordinates": [1045, 514],
+      "name": "Stagpal",
+      "strength": 1,
+      "flag": "custom:450px-Stagpal"
+    },
+    {
+      "coordinates": [1071, 494],
+      "name": "Doelhi Confederation",
+      "strength": 1,
+      "flag": "custom:450px-Doelhi_Confederation"
+    },
+    {
+      "coordinates": [1171, 475],
+      "name": "Yarildom of Sambar",
+      "strength": 1,
+      "flag": "custom:450px-Yarildom_of_Sambar"
+    },
+    {
+      "coordinates": [1118, 597],
+      "name": "Tzhimane Confederacy",
+      "strength": 1,
+      "flag": "custom:450px-Tzhimane_Confederacy"
+    },
+    {
+      "coordinates": [1150, 574],
+      "name": "Taungpau",
+      "strength": 1,
+      "flag": "custom:450px-Taungpau"
+    },
+    {
+      "coordinates": [1196, 530],
+      "name": "Barasingha",
+      "strength": 1,
+      "flag": "custom:450px-Barasingha"
+    },
+    {
+      "coordinates": [1001, 744],
+      "name": "Kingdom of Gargiloya",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Gargiloya"
+    },
+    {
+      "coordinates": [1038, 698],
+      "name": "Twizanyika",
+      "strength": 1,
+      "flag": "custom:450px-Twizanyika"
+    },
+    {
+      "coordinates": [1072, 813],
+      "name": "Kingdom of Senturya",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Senturya"
+    },
+    {
+      "coordinates": [1165, 766],
+      "name": "Sambovato",
+      "strength": 1,
+      "flag": "custom:Sambovato"
+    },
+    {
+      "coordinates": [1188, 738],
+      "name": "Melahaka",
+      "strength": 1,
+      "flag": "custom:450px-Melahaka"
+    },
+    {
+      "coordinates": [1141, 727],
+      "name": "Tanaigha",
+      "strength": 1,
+      "flag": "custom:450px-Tanaigha"
+    },
+    {
+      "coordinates": [1133, 675],
+      "name": "Zeblu",
+      "strength": 1,
+      "flag": "custom:450px-Zeblu"
+    },
+    {
+      "coordinates": [1187, 698],
+      "name": "Kingdom of Zongo",
+      "strength": 1,
+      "flag": "custom:450px-Kingdom_of_Zongo"
+    },
+    {
+      "coordinates": [1237, 587],
+      "name": "Realm of Kiria",
+      "strength": 2,
+      "flag": "custom:450px-Realm_of_Kiria"
+    },
+    {
+      "coordinates": [1248, 673],
+      "name": "Sen Kinh",
+      "strength": 1,
+      "flag": "custom:450px-Sen_Kinh"
+    },
+    {
+      "coordinates": [1205, 664],
+      "name": "Lan Kir Militarchy",
+      "strength": 1,
+      "flag": "custom:450px-Lan_Kir_Militarchy (1)"
+    },
+    {
+      "coordinates": [1254, 714],
+      "name": "Khamrin",
+      "strength": 1,
+      "flag": "custom:450px-Khamrin"
+    },
+    {
+      "coordinates": [1283, 738],
+      "name": "Naugdaw",
+      "strength": 1,
+      "flag": "custom:450px-Naugdaw"
+    },
+    {
+      "coordinates": [1234, 762],
+      "name": "Maglibing",
+      "strength": 1,
+      "flag": "custom:450px-Maglibing"
+    },
+    {
+      "coordinates": [1290, 773],
+      "name": "Talarayi",
+      "strength": 1,
+      "flag": "custom:450px-Talarayi"
+    },
+    {
+      "coordinates": [1265, 810],
+      "name": "Feathisian South Zebridies",
+      "strength": 1,
+      "flag": "custom:450px-Feathisian_South_Zebrides"
+    }
+  ]
+}
